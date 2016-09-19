@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>$id$</id>
+    <version>1.1.1-alpha09</version>
+    <authors>$author$</authors>
+    <description>$description$</description>
+    <language>zh-CN</language>
+    <projectUrl>http://myurl</projectUrl>
+    <licenseUrl>http://myurl</licenseUrl>
+    <iconUrl>http://myurl</iconUrl>
+    <frameworkAssemblies></frameworkAssemblies>
+    <dependencies>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="Content\App.config.install.xdt" target="content"/>
+    <file src="Content\Web.config.install.xdt" target="content"/>
+  </files>
+</package>
